@@ -1,0 +1,3 @@
+repository "Legion Striker/Legion Striker@6872731082898@cloud"
+  path "/"
+    smartbranch "/main"

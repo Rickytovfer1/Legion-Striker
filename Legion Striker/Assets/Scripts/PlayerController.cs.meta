@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3bf1c222337fc44bb73070439eeff61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb2d: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - sensorSuelo: {instanceID: 0}
+  - recargaSonido: {instanceID: 0}
+  - impactoSonido: {fileID: 8300000, guid: 5d628900db632b742a1e1d5eb90c200d, type: 3}
+  - ultimoCheckpoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
